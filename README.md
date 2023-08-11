@@ -1,7 +1,7 @@
-[![MasterHead](https://www.canva.com/design/DAFrOnAJ-nI/nESdZpg3jGn0iu_Hf1d35g/view?utm_content=DAFrOnAJ-nI&utm_campaign=designshare&utm_medium=link&utm_source=publishsharelink)]
+[![MasterHead](https://pbs.twimg.com/profile_banners/2201406210/1691753647/1500x500)]
 <h1 align="center">Hi 👋, I'm Diana Alatriste</h1>
 <h3 align="center">An avid researcher and data analyst from Mexico</h3>
-<img align=“right” alt=“Coding” width=“400” src=“https://cdn.dribbble.com/users/20368/screenshots/4012238/data_scene.gif”>
+<img align=“right” alt=“Coding” width=“400” src="https://cdn.dribbble.com/users/20368/screenshots/4012238/data_scene.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=dialgo25&label=Profile%20views&color=0e75b6&style=flat" alt="dialgo25" /> </p>
 
