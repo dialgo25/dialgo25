@@ -1,6 +1,6 @@
-[![MasterHead](https://www.canva.com/design/DAFvpXVFaWY/RlacdM9eoBkRgK_NwavTow/watch?utm_content=DAFvpXVFaWY&utm_campaign=designshare&utm_medium=link&utm_source=publishsharelink)
+[![MasterHead](https://www.canva.com/design/DAFvpXVFaWY/RlacdM9eoBkRgK_NwavTow/watch?utm_content=DAFvpXVFaWY&utm_campaign=designshare&utm_medium=link&utm_source=publishsharelink)]
 <h1 align="center">Hi 👋, I'm Diana Alatriste</h1>
-<h3 align="center">An avid researcher and data analyst from Mexico</h3>
+<h3 align="center">A Project Manager and Research Analyst from Mexico</h3>
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=dialgo25&label=Profile%20views&color=0e75b6&style=flat" alt="dialgo25" /> </p>
