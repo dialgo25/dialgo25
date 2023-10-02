@@ -1,4 +1,4 @@
-![MasterHead](https://pbs.twimg.com/profile_banners/2201406210/1691753647/1500x500)
+![MasterHead](https://www.canva.com/design/DAFvpXVFaWY/lwgjw3NZRElcpHV95R8Spg/edit?utm_content=DAFvpXVFaWY&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)
 <h1 align="center">Hi 👋, I'm Diana Alatriste</h1>
 <h3 align="center">An avid researcher and data analyst from Mexico</h3>
 
