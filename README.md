@@ -1,4 +1,4 @@
-[![MasterHead](https://www.canva.com/design/DAFvpXVFaWY/RlacdM9eoBkRgK_NwavTow/watch?utm_content=DAFvpXVFaWY&utm_campaign=designshare&utm_medium=link&utm_source=publishsharelink)]
+<div align="center"> <img src="https://raw.githubusercontent.com/dialgo25/dialgo25/main/Diana_Alatriste-Banner.png"> </div>
 <h1 align="center">Hi 👋, I'm Diana Alatriste</h1>
 <h3 align="center">A Project Manager and Research Analyst from Mexico</h3>
 
@@ -7,11 +7,11 @@
 
 <p align="left"> <a href="https://twitter.com/disadwing" target="blank"><img src="https://img.shields.io/twitter/follow/disadwing?logo=twitter&style=for-the-badge" alt="disadwing" /></a> </p>
 
-- 🔭 I’m currently working on **My certification as a Data Analyst**
+- 🔭 I’m currently working on **My Portfolio Website**
 
-- 🌱 I’m currently learning **Python**
+- 🌱 I’m currently learning **Python and HTML**
 
-- 💬 Ask me about **Neuroscience, Molecular Biology, and Data Analysis**
+- 💬 Ask me about **Data Analysis, Customer Experience, User Experience and Books!**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
