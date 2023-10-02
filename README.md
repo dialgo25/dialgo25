@@ -1,4 +1,4 @@
-![MasterHead](https://www.canva.com/design/DAFvpXVFaWY/lwgjw3NZRElcpHV95R8Spg/edit?utm_content=DAFvpXVFaWY&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)
+[![MasterHead](https://www.canva.com/design/DAFvpXVFaWY/RlacdM9eoBkRgK_NwavTow/watch?utm_content=DAFvpXVFaWY&utm_campaign=designshare&utm_medium=link&utm_source=publishsharelink)
 <h1 align="center">Hi 👋, I'm Diana Alatriste</h1>
 <h3 align="center">An avid researcher and data analyst from Mexico</h3>
 
