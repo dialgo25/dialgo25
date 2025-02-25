@@ -11,7 +11,7 @@
 
 - 🌱 I’m currently learning **Basics of Product Management**
 
-- 💬 Ask me about **User Experience Research, Customer Experience, Data Analysis and what's I'm currently reading!**
+- 💬 Ask me about **User Experience Research, Customer Experience, Data Analysis and what's currently on my reading list!**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
