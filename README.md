@@ -1,6 +1,6 @@
 <div align="center"> <img src="https://raw.githubusercontent.com/dialgo25/dialgo25/main/Diana_Alatriste-Banner.png"> </div>
 <h1 align="center">Hi 👋, I'm Diana Alatriste</h1>
-<h3 align="center">A Project Manager and Research Analyst from Mexico</h3>
+<h3 align="center">I am a UX Researcher and Research Project Manager with a background in research, and an the genuine curiosity to understand what drives people to engage with digital products and why</h3>
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=dialgo25&label=Profile%20views&color=0e75b6&style=flat" alt="dialgo25" /> </p>
