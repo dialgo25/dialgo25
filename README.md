@@ -7,11 +7,11 @@
 
 <p align="left"> <a href="https://twitter.com/disadwing" target="blank"><img src="https://img.shields.io/twitter/follow/disadwing?logo=twitter&style=for-the-badge" alt="disadwing" /></a> </p>
 
-- 🔭 I’m currently working on **My Portfolio Website**
+- 🔭 I’m currently working on **My UXR Portfolio Website**
 
-- 🌱 I’m currently learning **Python and HTML**
+- 🌱 I’m currently learning **Basics of Product Management**
 
-- 💬 Ask me about **Data Analysis, Customer Experience, User Experience and Books!**
+- 💬 Ask me about **User Experience Research, Customer Experience, Data Analysis and what's I'm currently reading!**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
